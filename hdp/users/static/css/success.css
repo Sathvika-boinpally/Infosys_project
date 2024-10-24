@@ -1,0 +1,17 @@
+.success-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #4CAF50; /* Green border */
+    border-radius: 5px;
+    background-color: #e8f5e9; /* Light green background */
+    text-align: center;
+}
+
+.success-container h2 {
+    color: #4CAF50; /* Green text for header */
+}
+
+.success-container p {
+    color: #333; /* Dark text for paragraphs */
+}
